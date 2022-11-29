@@ -1,0 +1,1 @@
+alert("'Life Is A Journey  And Only You Hold The Key.'")
